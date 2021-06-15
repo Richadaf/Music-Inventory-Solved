@@ -1,0 +1,20 @@
+C:\Users\1669193\AppData\Local\Temporary Projects\Music Inventory\bin\Debug\Music Inventory.exe
+C:\Users\1669193\AppData\Local\Temporary Projects\Music Inventory\bin\Debug\Music Inventory.pdb
+C:\Users\1669193\AppData\Local\Temporary Projects\Music Inventory\bin\Debug\Music Inventory.xml
+C:\Users\1669193\AppData\Local\Temporary Projects\Music Inventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1669193\AppData\Local\Temporary Projects\Music Inventory\obj\Debug\Music_Inventory.Form1.resources
+C:\Users\1669193\AppData\Local\Temporary Projects\Music Inventory\obj\Debug\Music_Inventory.Resources.resources
+C:\Users\1669193\AppData\Local\Temporary Projects\Music Inventory\obj\Debug\Music Inventory.vbproj.GenerateResource.Cache
+C:\Users\1669193\AppData\Local\Temporary Projects\Music Inventory\obj\Debug\Music Inventory.exe
+C:\Users\1669193\AppData\Local\Temporary Projects\Music Inventory\obj\Debug\Music Inventory.xml
+C:\Users\1669193\AppData\Local\Temporary Projects\Music Inventory\obj\Debug\Music Inventory.pdb
+H:\Programming\1st Quarter\Visual basic studio\Music Inventory\Music Inventory\Music Inventory\obj\Debug\Music Inventory.exe
+H:\Programming\1st Quarter\Visual basic studio\Music Inventory\Music Inventory\Music Inventory\obj\Debug\Music Inventory.xml
+H:\Programming\1st Quarter\Visual basic studio\Music Inventory\Music Inventory\Music Inventory\obj\Debug\Music Inventory.pdb
+H:\Programming\1st Quarter\Visual basic studio\Music Inventory\Music Inventory\Music Inventory\bin\Debug\Music Inventory.exe
+H:\Programming\1st Quarter\Visual basic studio\Music Inventory\Music Inventory\Music Inventory\bin\Debug\Music Inventory.pdb
+H:\Programming\1st Quarter\Visual basic studio\Music Inventory\Music Inventory\Music Inventory\bin\Debug\Music Inventory.xml
+H:\Programming\1st Quarter\Visual basic studio\Music Inventory\Music Inventory\Music Inventory\obj\Debug\ResolveAssemblyReference.cache
+H:\Programming\1st Quarter\Visual basic studio\Music Inventory\Music Inventory\Music Inventory\obj\Debug\Music_Inventory.Form1.resources
+H:\Programming\1st Quarter\Visual basic studio\Music Inventory\Music Inventory\Music Inventory\obj\Debug\Music_Inventory.Resources.resources
+H:\Programming\1st Quarter\Visual basic studio\Music Inventory\Music Inventory\Music Inventory\obj\Debug\Music Inventory.vbproj.GenerateResource.Cache
